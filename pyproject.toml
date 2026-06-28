@@ -5,6 +5,7 @@ description = "Add your description here"
 requires-python = ">=3.14"
 dependencies = [
     "atproto>=0.0.68",
+    "feedparser>=6.0",
     "python-dotenv>=1.2.2",
     "pyyaml>=6.0.3",
 ]
