@@ -1,0 +1,8 @@
+accounts:
+  - permutans.bsky.social
+
+feeds:
+  - at://did:plc:nzcne7wqpb5wsopmxxyegf5q/app.bsky.feed.generator/aaaagpxsctrug
+  - at://did:plc:te235k5t6h4hp3awy5tuajxx/app.bsky.feed.generator/aaajf4zkrdcte
+  - at://did:plc:nzcne7wqpb5wsopmxxyegf5q/app.bsky.feed.generator/aaaaghkc27xoe
+  - at://did:plc:yb37rlld5hddptt5dfywfgpz/app.bsky.feed.generator/aaadaozwkcgjw
